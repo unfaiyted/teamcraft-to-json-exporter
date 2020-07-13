@@ -1,5 +1,7 @@
 # teamcraft-to-json-exporter
-Export ffxiv teamcraft lists to the imported into another application in the json format
+Export ffxiv teamcraft lists to the imported into another application in the json format.
+Adds a button to the fxivteamcraft website to export a list as a json format file. 
+
 Use Tamper monkey to implement. 
 
 <h2>Install:</h2>
